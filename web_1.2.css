@@ -4,8 +4,11 @@
 
 body {
   font-family: Arial;
-  padding: 10px;
+  padding: 90px;
   background: #ffb7c3;
+  background-image: url("n1.jpg");
+  background-size: 100% 2000px;
+  background-repeat: no-repeat;
 }
 
 /* Header */
@@ -55,8 +58,8 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: lightgreen;
-  padding-left: 20px;
+  background-color: black;
+  padding-left: 15px;
 }
 
 /* Fake image */
@@ -64,22 +67,22 @@ body {
   background-color: #aaa;
   background-image: url("1.jpg");
   width: 100%;
-  padding: 130px;
+  padding: 150px;
   background-size:100% 300px; 
 }
 .fakeimg2 {
   background-color: #aaa;
   background-image: url("2.jpg");
-  width: 60%;
+  width: 40%;
   padding: 150px;
   background-size: 100% 330px;
 }
 .fakeimg3 {
   background-color: #aaa;
   background-image: url("3.jpg");
-  width: 100%;
-  padding: 70px;
-  background-size: 100% 130px;
+  width: 80%;
+  padding: 100px;
+  background-size: 100% 150px;
   background-repeat: no-repeat;
 }
 .fakeimg4 {
@@ -93,7 +96,7 @@ body {
   background-color: #aaa;
   background-image: url("ata2.jpg");
   width: 80%;
-  padding: 40px;
+  padding: 50px;
   background-size: 100% 130px;
 }
 .fakeimg6 {
@@ -122,7 +125,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: grey;
+  background: dodgerblue;
   margin-top: 20px;
 }
 
